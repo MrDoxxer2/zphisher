@@ -155,7 +155,7 @@ banner() {
 		${ORANGE}      | |                                
 		${ORANGE}      |_|                ${RED}Version : 2.1
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (tahmid.rayat)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool pirated by Eren Yeager${WHITE}
 	EOF
 }
 
@@ -646,7 +646,7 @@ main_menu() {
 		site_vk
 	elif [[ "$REPLY" == 30 ]]; then
 		website="xbox"
-		mask='http://get-500-usd-free-to-your-acount'
+		mask='https://xbox-beta'
 		tunnel_menu
 	elif [[ "$REPLY" == 31 ]]; then
 		website="mediafire"
